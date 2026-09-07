@@ -1,6 +1,6 @@
 /* Config JS - Dynamic Domain Target Link Resolution */
 (function () {
-    var DEFAULT_REDIRECT_URL = "https://gg8853.com/?id=674428520";
+    var DEFAULT_REDIRECT_URL = "https://www.gg8850.com/?id=914669054";
     window.REDIRECT_URL = window.REDIRECT_URL || DEFAULT_REDIRECT_URL;
 
     function getCleanHost() {

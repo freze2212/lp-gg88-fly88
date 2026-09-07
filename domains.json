@@ -37,7 +37,9 @@
     "telegram_url": "https://gg8850.com/?id=465209223"
   },
   "gg88hh.com": {
-    "main_url": ""
+    "main_url": "https://www.gg8850.com/?id=914669054",
+    "messenger_url": "https://www.gg8850.com/?id=914669054",
+    "telegram_url": "https://www.gg8850.com/?id=914669054"
   },
   "gg88si.com": {
     "main_url": ""
@@ -103,5 +105,10 @@
   "www.gg88mc.com": {
     "main_url": "https://gg8853.com/?id=674428520",
     "messenger_url": "https://gg8853.com/?id=674428520"
+  },
+  "www.gg88hh.com": {
+    "main_url": "https://www.gg8850.com/?id=914669054",
+    "messenger_url": "https://www.gg8850.com/?id=914669054",
+    "telegram_url": "https://www.gg8850.com/?id=914669054"
   }
 }
